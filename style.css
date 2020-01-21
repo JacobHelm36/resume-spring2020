@@ -1,12 +1,44 @@
 .bg-blue{
-  background-color: blue;
+  background-color: rgb(67, 67, 175);
 }
 .text-white {
-  color: white
+  color: white;
 }
-.bg-white{
-  background-color: white
+
+.text-center{
+  text-align: center;
 }
-color-text{
-  color: green
+
+.side1{
+  display: inline-block;
+  width: 75vw;
+}
+
+.side2{
+  display: inline-block;
+  width: 20vw;
+}
+
+.text-right{
+  text-align: right;
+}
+
+div img{
+  height: 100px;
+  width: 80px;
+  margin-bottom: 10vw;
+}
+
+.make-pad{
+  padding: .5vw;
+  width: 550px;
+  height: .5vw;
+  margin-top: 2vw;
+  background-color: rgb(110, 164, 214)
+  ;
+}
+
+.make-bottom-bar{
+  padding: 5vw;
+  background-color: rgb(59, 59, 145);
 }
